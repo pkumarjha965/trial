@@ -1,0 +1,13 @@
+ Volume in drive C is Acer
+ Volume Serial Number is C06F-EE75
+
+ Directory of C:\Users\Prashant\Desktop\git_folder
+
+11/02/2016  12:36 AM    <DIR>          .
+11/02/2016  12:36 AM    <DIR>          ..
+11/02/2016  12:31 AM                25 text1.txt
+11/02/2016  12:35 AM               405 text2.txt
+11/02/2016  12:31 AM               405 text3.txt
+11/02/2016  12:36 AM                 0 text4.txt
+               4 File(s)            835 bytes
+               2 Dir(s)  175,611,219,968 bytes free
